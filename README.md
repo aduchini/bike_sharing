@@ -9,10 +9,10 @@ Data visualizations were created using Tableau, and the story can be [viewed her
 ![screenshot of Tableau visualization of Trip Duration per Bike Ride](images/trip-duration.png)
 Most bike rides are around 5 minutes long.
 ### Trip Duration by Gender for Short Trips
-![screenshot of Tableau visualization of Trip Duration by Gender for Short Trips](images/trip-duration-by-gender-0hrs.png)
+![screenshot of Tableau visualization of Trip Duration by Gender for Short Trips](images/trip-duration-by%20gender-0hrs.png)
 The above is true for both genders, with females consitituting around 25% of the total users on short rides.
 ### Trip Duration by Gender for Long Trips
-![screenshot of Tableau visualization of Trip Duration by Gender for Long Trips](images/trip-duration-by-gender-2hrs.png)
+![screenshot of Tableau visualization of Trip Duration by Gender for Long Trips](images/trip-duration-by%20gender-2hrs.png)
 For rides more than 2 hours long, the render distribution is roughly equal.
 ### Ride Check-out Times per Day of the Week
 ![screenshot of Tableau visualization of Ride Check-out Times per Day of the Week](images/trips-per-time-of-day.png)
